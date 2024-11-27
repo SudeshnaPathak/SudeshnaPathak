@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on GenAI, AI & ML<br>I'm looking forward to collaborate on GenAI projects<br><br>
+I'm currently working on FastAPI, RestAPI, Flask API, GenAI, AI & ML<br>I'm looking forward to collaborating on some interesting projects<br><br>
 
 
 ## 🌐 Socials:
