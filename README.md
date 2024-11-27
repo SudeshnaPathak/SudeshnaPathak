@@ -15,7 +15,6 @@ I'm currently working on GenAI, AI & ML<br>I'm looking forward to collaborate on
 ---
 [![](https://visitcount.itsvg.in/api?id=SudeshnaPathak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SudeshnaPathak)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
