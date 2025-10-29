@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Web Development, Generative AI, Machine Learning, Microservices.<br>I'm looking forward to collaborate on some interesting projects<br><br>
+I'm currently working on Web Development, Generative AI, Machine Learning, Microservices.<br>Looking forward to collaborate on some interesting projects<br><br>
 
 
 ## 🌐 Socials:
