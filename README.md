@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development, Microservices, and have a keen interest in Generative AI <br>
-👯 I’m looking to collaborate on AI-driven backend projects, LLM-based automation, and scalable microservices.<br>
-🌱 I’m currently learning Advanced LangGraph, CrewAI orchestration, and System Design for large-scale backend architectures.<br>
+👯 I’m looking to collaborate on Open Source Projects, AI-driven backend projects, LLM-based automation, and scalable microservices.<br>
+🌱 I’m currently learning Spring & SpringBoot, Advanced LangGraph, CrewAI orchestration, and System Design for large-scale backend architectures.<br>
 ⚡ Fun fact: My AI agents sometimes argue — and I let them, as long as they find the right answer 😎
 
 ## 🌐 Socials:
