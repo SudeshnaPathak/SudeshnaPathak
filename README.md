@@ -19,9 +19,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=SudeshnaPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" style="margin:10px;"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SudeshnaPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" style="margin:10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudeshnaPathak&theme=dark&hide_border=false" alt="GitHub streak" style="margin:10px;">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudeshnaPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" style="margin:10px;"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudeshnaPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" style="margin:10px;">
 </div>
 
 ---
