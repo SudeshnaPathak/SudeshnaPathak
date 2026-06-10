@@ -2,7 +2,6 @@
 🔭 I’m currently working on Web Development, Microservices, and have a keen interest in Generative AI <br>
 👯 I’m looking to collaborate on Open Source Projects, AI-driven backend projects, LLM-based automation, and scalable microservices.<br>
 🌱 I’m currently learning Spring & SpringBoot, Advanced LangGraph, CrewAI orchestration, and System Design for large-scale backend architectures.<br>
-⚡ Fun fact: My AI agents sometimes argue — and I let them, as long as they find the right answer 😎
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudeshna__p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudeshna-pathak/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pathak_sudeshna) 
