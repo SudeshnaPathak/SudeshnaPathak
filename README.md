@@ -48,7 +48,7 @@ A 6-agent CrewAI pipeline using GPT-4o-mini for automated risk analysis, cross-d
 
 ## 🛠️ Tech Stack
 
-<table style="width:100%;">
+<table style="width:100%">
   <tr>
     <td><strong>Languages</strong></td>
     <td><strong>Backend Frameworks</strong></td>
@@ -95,7 +95,7 @@ A 6-agent CrewAI pipeline using GPT-4o-mini for automated risk analysis, cross-d
     <td><strong>API & Docs</strong></td>
   </tr>
   <tr>
-    <td>
+    <td style="display:flex;flex-direction:row;gap:10px;">
       <a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" height="38" /></a>
       <a href="https://junit.org/junit5/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58uqf8XCIrL-gQ2gocliLnC9KTSzDWQ2b2Q&s" alt="JUnit" height="38"/></a>
       <a href="https://site.mockito.org/"><img src="https://site.mockito.org/javadoc/current/org/mockito/logo.png" alt="Mockito" height="38"/></a>
