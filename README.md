@@ -95,11 +95,11 @@ A 6-agent CrewAI pipeline using GPT-4o-mini for automated risk analysis, cross-d
     <td><strong>API & Docs</strong></td>
   </tr>
   <tr>
-    <td style="display:flex;flex-direction:row;gap:10px;">
+    <td>
       <a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" height="38" /></a>
       <a href="https://junit.org/junit5/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58uqf8XCIrL-gQ2gocliLnC9KTSzDWQ2b2Q&s" alt="JUnit" height="38"/></a>
       <a href="https://site.mockito.org/"><img src="https://site.mockito.org/javadoc/current/org/mockito/logo.png" alt="Mockito" height="38"/></a>
-      <a href="https://testng.org/"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ugn0nrlfcmaoyis038um.png" alt="TestNg" height="36"/></a>
+      <a href="https://testng.org/"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ugn0nrlfcmaoyis038um.png" alt="TestNg" height="38"/></a>
       <a href="https://rest-assured.io/"><img src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured" height="38"/></a>
       <a href="https://cucumber.io/"><img src="https://cucumber.io/img/logo.svg" alt="cucumber" height="38"/></a>
     </td>
