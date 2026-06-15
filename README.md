@@ -68,7 +68,10 @@ A 6-agent CrewAI pipeline using GPT-4o-mini for automated risk analysis, cross-d
     <td><strong>Databases</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=react" height="38" /></td>
+    <td>
+    <img src="https://skillicons.dev/icons?i=react" height="38" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9107c4JKdu4zSW0CN0V5FB41dBNpX1ZwlJI59ZtEqy8AQvTjfH3LSkWl" height="38" />
+    </td>
     <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="38" /></td>
   </tr>
   <tr>
@@ -101,7 +104,7 @@ A 6-agent CrewAI pipeline using GPT-4o-mini for automated risk analysis, cross-d
       <a href="https://site.mockito.org/"><img src="https://site.mockito.org/javadoc/current/org/mockito/logo.png" alt="Mockito" height="38"/></a>
       <a href="https://testng.org/"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ugn0nrlfcmaoyis038um.png" alt="TestNg" height="38"/></a>
       <a href="https://rest-assured.io/"><img src="https://rest-assured.io/img/logo-transparent.png" alt="Rest Assured" height="38"/></a>
-      <a href="https://cucumber.io/"><img src="https://cucumber.io/img/logo.svg" alt="cucumber" height="38"/></a>
+      <!-- <a href="https://cucumber.io/"><img src="https://cucumber.io/img/logo.svg" alt="cucumber" height="38"/></a> -->
     </td>
     <td>
       <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="38" /></a>
@@ -118,8 +121,6 @@ A 6-agent CrewAI pipeline using GPT-4o-mini for automated risk analysis, cross-d
     <td>
       <img src="https://img.shields.io/badge/Spring_AOP-6DB33F?style=flat-square&logo=spring&logoColor=white" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -156,3 +157,7 @@ A 6-agent CrewAI pipeline using GPT-4o-mini for automated risk analysis, cross-d
 I'm actively seeking roles in **Java Backend and Full-Stack Development** — Open to on-site, hybrid and remote roles. Eager to collaborate on impactful projects.  
   
 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sudeshna-pathak/)** or **[Email](mailto:pathaksudeshna92@gmail.com)**.
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="300" />
+</p>
