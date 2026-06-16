@@ -13,18 +13,18 @@
 </p>
 
 ---
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="300" align="right" />
 
 ## 💫 About Me
 
 🎓 B.Tech Graduate in Computer Science & Engineering from **Institute of Engineering & Management, Kolkata (CGPA: 9.83/10)**.  
-💼 Former **R&D Intern at Hyland Software** & **SDE Intern at Coderlook Solutions**.   
+💼 Former **R&D Intern at Hyland Software** & **SDE Intern at Coderlook Solutions**.  
 🔭 Crafting backend solutions with **Java & Spring Boot** and diving deep into **System Design, HLD, LLD, and Microservices** to build software that scales.  
-📚 **2x Scopus-indexed Research Publications** in computer vision & AI (Springer conference proceedings).    
+📚 **2x Scopus-indexed Research Publications** in computer vision & AI (Springer conference proceedings).  
 🏆 Solved **800+ DSA problems** on LeetCode and GeeksforGeeks.   
 🥇 Ranked **Top 2%** in IIT Kharagpur's Introduction to Algorithms and Analysis program.  
-👯 Open to collaborating on **open source projects, Agentic AI solutions, Full Stack & Backend projects and microservices**.   
+👯 Open to collaborating on **open source projects, Agentic AI solutions, Full Stack & Backend projects and microservices**.
 
----
 
 ## 🚀 Featured Projects
 
@@ -158,6 +158,4 @@ I'm actively seeking roles in **Java Backend and Full-Stack Development** — Op
   
 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sudeshna-pathak/)** or **[Email](mailto:pathaksudeshna92@gmail.com)**.
 
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="300" />
-</p>
+
