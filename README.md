@@ -69,8 +69,7 @@ A 6-agent CrewAI pipeline using GPT-4o-mini for automated risk analysis, cross-d
   </tr>
   <tr>
     <td>
-    <img src="https://skillicons.dev/icons?i=react" height="38" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9107c4JKdu4zSW0CN0V5FB41dBNpX1ZwlJI59ZtEqy8AQvTjfH3LSkWl" height="38" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap" height="38" />
     </td>
     <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="38" /></td>
   </tr>
@@ -139,7 +138,8 @@ A 6-agent CrewAI pipeline using GPT-4o-mini for automated risk analysis, cross-d
 </p> -->
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pathaksudeshna?ext=heatmap" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/pathaksudeshna?ext=heatmap" height="250"/>
+  <img src="https://gfgstatscard.vercel.app/pathaksudeshna?theme=dark" height="250"/>
 </p>
 
 ---
